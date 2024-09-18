@@ -1,4 +1,4 @@
-## Precipitation Data - Seattle 2014 rainfall Analysis
+## Precipitation Data - Seattle 2014 Rainfall Analysis
 
 Overview
 The Precipitation Data Analyzer repository provides tools for analyzing and converting precipitation data. Using the following librairies, numpy, pandas, seaborn, matplotlib.pyplot. This project features :
